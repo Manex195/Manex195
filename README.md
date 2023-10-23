@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Manex Phring Sangma.
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning java as well as data structures and algorithms.
-- 💻 I love to solve problems
+- 💻 I love to solve problems.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my facebook account https://www.facebook.com/manex.phringsangma.5/ 
 
